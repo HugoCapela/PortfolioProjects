@@ -5,7 +5,7 @@ import java.io.IOException;
 /**
  * <Academia de Código_> #87 FLOWribellas
  *
- * Bootcamp Week #5 - Java Collections
+ * Bootcamp Week #5 - Java I/O
  *
  * Pair programming with João Batista
  */
