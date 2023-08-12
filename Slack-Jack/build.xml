@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+
+<project name="slack-jack" basedir="." default="jarfile">
+
+    <!-- Initialize build properties  -->
+    <target name="init" description="Initializes properties">
+        <property name="project.name" value="slack-jack" />
+        <property name="main-class" value="org.academiadecodigo.nanderthals.Game" />
+        <property name="src.dir" value="src" />
+        <property name="build.dir" value="build" />
+        <property name="classes.dir" value="${build.dir}/classes" />
+        <property name="version" value="0.5" />
+        <property name="lib.dir" value="lib" />
+        <path id="classpath">
+            <fileset dir="${lib.dir}" includes="**/*.jar" />
+        </path>
+    </target>
+
+    <!-- Creates the build directories to hold JAR and Class files -->
+    <target name="prepare" description="Creates the build and classes directories" depends="init">
+        <mkdir dir="${classes.dir}" />
+    </target>
+
+    <!-- Compiles the source code -->
+    <target name="compile" description="Compiles the code" depends="prepare">
+        <javac includeantruntime="false" srcdir="${src.dir}" destdir="${classes.dir}" target="8" source="8" />
+    </target>
+
+    <!-- Creates a JAR file -->
+    <target name="jarfile" description="Archives the code" depends="compile">
+        <jar destfile="${build.dir}/${project.name}-${version}.jar" basedir="${classes.dir}">
+            <manifest>
+                <attribute name="Main-class" value="${main-class}" />
+                <attribute name="Class-Path" value="${lib.dir}" />
+            </manifest>
+            <zipgroupfileset dir="${lib.dir}" includes="*.jar"/>
+        </jar>
+
+    </target>
+
+    <!-- Removes the build directory -->
+    <target name="clean" description="Clean up" depends="init">
+        <delete dir="${build.dir}" />
+    </target>
+
+</project>

@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Slack-Jack:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Slack_Jack_jar</output-path>
+    <root id="archive" name="Slack-Jack.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/resources/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Slack-Jack" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/simplegraphics.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
