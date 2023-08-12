@@ -19,7 +19,7 @@ Any number above your "Total money", to place a bet <br>
 ## Group
 [Hugo Capela](https://github.com/HugoCapela/) <br>
 [João Pereira](https://github.com/kahbidelas/) <br>
-José Nuno Sousa <br>
+[José Nuno Sousa](https://github.com/NunoSousa9) <br>
 Pedro Almeida <br>
 Pedro Leite <br>
 
