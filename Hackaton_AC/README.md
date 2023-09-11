@@ -1,12 +1,12 @@
-## HACKATON 16/08/2023 14H -> 17/08/2023 14H
+## HACKATON 16/08/2023 -> 17/08/2023
 
   <Academia de Código_> Bootcamp #87 FLOWribellas && #89 NANDerthals
 
-  CodeKillers are:
-    - Nancy Marques
-    - Paulo Ricardo Rovere
-    - Rodrigo Farias
-    - Hugo Capela
+  CodeKillers are: <br>
+    - Nancy Marques <br>
+    - Paulo Ricardo Rovere <br>
+    - Rodrigo Farias <br>
+    - Hugo Capela <br>
 
   “If you don't get it the first time, back up and try it again.” - James Brown
   
