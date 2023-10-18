@@ -1,0 +1,22 @@
+USE test;
+
+-- SQL TO ADD A PRIMARY KEY TO A TABLE
+
+ALTER TABLE <tablename>
+ADD PRIMARY KEY (columnname);
+
+-- SQL TO REMOVE A PRIMARY KEY FROM A TABLE
+
+ALTER TABLE <tablename>
+DROP PRIMARY KEY;
+
+--
+
+DESCRIBE addresses;
+DESCRIBE people;
+
+ALTER TABLE addresses
+ADD PRIMARY KEY (id);
+
+ALTER TABLE addresses
+DROP PRIMARY KEY;

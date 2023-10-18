@@ -1,0 +1,21 @@
+Normalization:
+
+1 st Normal Form
+2 nd Normal Form
+3 rd Normal Form
+
+Relationships:
+
+One-To-One
+One-To-Many
+Many-To-Many
+
+Constraints:
+
+NOT NULL
+UNIQUE
+PRIMARY KEY
+FOREIGN KEY
+CHECK
+DEFAULT
+
