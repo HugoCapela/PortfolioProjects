@@ -1,0 +1,49 @@
+TEAM SUMMARY
+NASHVILLE PREDATORS 	G 	A 	P 	+/- 	PN 	PIM 	TOI 	S 	A/B 	MS 	HT 	GV 	TK 	BS 	FW 	FL 	F%
+TOT 	SHF 	AVG 	PP 	SH 	EV
+3 	D 	LAUZON, JEREMY 	  	1 	1 	+1 	1 	5 	17:03 	21 	00:48 	00:05 	04:33 	12:25 	  	  	  	4 	  	  	2 	  	  	 
+9 	L 	FORSBERG, FILIP 	2 	1 	3 	+2 	1 	2 	17:11 	20 	00:51 	05:02 	00:00 	12:09 	5 	2 	  	  	1 	1 	  	  	  	 
+10 	C 	SISSONS, COLTON 	  	1 	1 	  	  	  	17:46 	23 	00:46 	04:11 	01:46 	11:49 	1 	  	1 	  	  	1 	  	4 	7 	36
+13 	C 	TRENIN, YAKOV 	1 	  	1 	+2 	  	  	18:41 	21 	00:53 	04:20 	03:37 	10:44 	4 	  	  	1 	  	  	1 	1 	0 	100
+14 	C 	NYQUIST, GUSTAV 	  	1 	1 	+1 	1 	2 	14:32 	21 	00:41 	03:31 	01:12 	09:49 	2 	  	1 	  	  	  	  	  	  	 
+18 	C 	FOUDY, LIAM 	  	  	  	+1 	  	  	13:11 	15 	00:52 	00:00 	00:20 	12:51 	  	1 	  	1 	  	  	2 	  	  	 
+22 	D 	BARRIE, TYSON 	  	1 	1 	+1 	1 	2 	19:41 	20 	00:59 	05:06 	00:28 	14:07 	2 	  	  	  	  	  	2 	  	  	 
+24 	D 	STASTNEY, SPENCER 	1 	  	1 	+2 	  	  	16:02 	22 	00:43 	00:00 	02:40 	13:22 	2 	  	  	  	  	1 	1 	  	  	 
+26 	C 	TOMASINO, PHILIP 	  	1 	1 	+1 	  	  	15:36 	19 	00:49 	04:07 	00:00 	11:29 	2 	  	1 	  	  	1 	1 	  	  	 
+27 	D 	MCDONAGH, RYAN 	  	1 	1 	+1 	1 	2 	18:39 	21 	00:53 	00:00 	01:46 	16:53 	1 	  	  	  	1 	1 	1 	  	  	 
+36 	L 	SMITH, COLE 	  	1 	1 	+1 	  	  	13:56 	19 	00:44 	00:00 	01:40 	12:16 	1 	1 	  	1 	  	  	1 	  	  	 
+44 	L 	SHERWOOD, KIEFER 	1 	2 	3 	+1 	  	  	10:25 	15 	00:41 	00:00 	00:28 	09:57 	4 	  	1 	1 	  	1 	  	1 	0 	100
+45 	D 	CARRIER, ALEXANDRE 	  	2 	2 	+3 	  	  	18:16 	23 	00:47 	00:31 	04:27 	13:18 	1 	  	1 	1 	  	  	  	  	  	 
+47 	R 	MCCARRON, MICHAEL 	  	  	  	  	  	  	14:08 	21 	00:40 	00:00 	02:07 	12:01 	1 	  	  	1 	  	1 	1 	3 	8 	27
+59 	D 	JOSI, ROMAN 	  	  	  	+1 	  	  	22:56 	22 	01:02 	04:31 	00:30 	17:55 	2 	2 	2 	  	  	  	2 	  	  	 
+75 	C 	PARSSINEN, JUUSO 	  	  	  	+2 	  	  	13:01 	17 	00:45 	03:59 	00:03 	08:59 	  	1 	1 	  	  	  	1 	1 	8 	11
+77 	R 	EVANGELISTA, LUKE 	2 	1 	3 	+2 	  	  	13:32 	16 	00:50 	04:28 	00:01 	09:03 	5 	1 	  	  	  	3 	1 	  	  	 
+90 	C 	O'REILLY, RYAN 	1 	  	1 	+3 	  	  	18:17 	25 	00:43 	04:39 	02:50 	10:48 	2 	  	  	  	  	2 	1 	5 	11 	31
+32 	G 	LANKINEN, KEVIN 	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	1 	  	  	  	  	 
+74 	G 	SAROS, JUUSE 	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	 
+TEAM TOTALS 	8 	13 	21 	+25 	5 	13 	  	  	  	  	  	  	35 	8 	8 	10 	3 	12 	17 	15 	34 	31
+ 
+ 
+ST. LOUIS BLUES 	G 	A 	P 	+/- 	PN 	PIM 	TOI 	S 	A/B 	MS 	HT 	GV 	TK 	BS 	FW 	FL 	F%
+TOT 	SHF 	AVG 	PP 	SH 	EV
+4 	D 	LEDDY, NICK 	  	  	  	-2 	  	  	23:13 	28 	00:49 	00:08 	05:23 	17:42 	  	1 	  	  	  	  	1 	  	  	 
+6 	D 	SCANDELLA, MARCO 	  	1 	1 	+2 	  	  	14:00 	20 	00:42 	00:00 	02:34 	11:26 	1 	2 	  	  	1 	1 	1 	  	  	 
+10 	C 	SCHENN, BRAYDEN 	  	  	  	-4 	1 	5 	15:34 	16 	00:58 	01:59 	00:27 	13:08 	2 	  	  	4 	1 	1 	  	6 	1 	86
+12 	R 	HAYES, KEVIN 	  	  	  	-1 	  	  	14:22 	18 	00:47 	03:07 	00:00 	11:15 	2 	  	  	  	  	  	  	12 	1 	92
+13 	R 	TOROPCHENKO, ALEXEY 	  	  	  	-1 	  	  	14:04 	18 	00:46 	00:12 	02:36 	11:16 	5 	  	2 	  	  	  	  	  	  	 
+18 	C 	THOMAS, ROBERT 	1 	1 	2 	  	  	  	19:54 	23 	00:51 	04:06 	03:25 	12:23 	3 	2 	1 	  	  	  	1 	13 	8 	62
+20 	L 	SAAD, BRANDON 	  	1 	1 	-1 	  	  	15:14 	18 	00:50 	02:02 	00:09 	13:03 	2 	  	  	  	  	2 	  	  	  	 
+25 	C 	KYROU, JORDAN 	  	1 	1 	-2 	  	  	15:04 	17 	00:53 	03:21 	00:00 	11:43 	3 	1 	2 	  	1 	  	  	  	  	 
+42 	R 	KAPANEN, KASPERI 	  	  	  	-2 	  	  	15:00 	20 	00:45 	01:35 	02:48 	10:37 	2 	1 	  	1 	  	1 	  	  	  	 
+47 	D 	KRUG, TOREY 	  	1 	1 	-4 	  	  	18:12 	24 	00:45 	03:49 	01:03 	13:20 	4 	1 	  	1 	  	  	  	  	  	 
+48 	D 	PERUNOVICH, SCOTT 	  	  	  	-1 	  	  	17:01 	19 	00:53 	03:10 	00:00 	13:51 	1 	  	  	  	  	  	1 	  	  	 
+55 	D 	PARAYKO, COLTON 	  	  	  	-2 	  	  	24:22 	28 	00:52 	00:12 	05:19 	18:51 	4 	5 	  	1 	  	  	  	  	  	 
+59 	C 	ALEXANDROV, NIKITA 	  	  	  	  	1 	2 	07:01 	9 	00:46 	00:03 	00:00 	06:58 	1 	1 	  	1 	1 	  	  	1 	3 	25
+63 	L 	NEIGHBOURS, JAKE 	1 	  	1 	-2 	  	  	16:37 	21 	00:47 	02:50 	01:52 	11:55 	3 	3 	  	5 	  	1 	  	1 	0 	100
+70 	C 	SUNDQVIST, OSKAR 	  	  	  	  	1 	2 	14:45 	19 	00:46 	02:09 	02:34 	10:02 	1 	  	  	  	  	  	  	1 	2 	33
+72 	D 	FAULK, JUSTIN 	  	  	  	-3 	  	  	19:12 	26 	00:44 	02:47 	03:31 	12:54 	1 	2 	1 	  	  	  	3 	  	  	 
+79 	L 	BLAIS, SAMMY 	  	  	  	-1 	1 	2 	08:15 	11 	00:45 	00:00 	00:00 	08:15 	1 	  	  	  	1 	  	1 	  	  	 
+89 	L 	BUCHNEVICH, PAVEL 	1 	1 	2 	-1 	2 	4 	18:38 	23 	00:48 	04:05 	03:07 	11:26 	3 	2 	1 	1 	  	  	  	  	  	 
+30 	G 	HOFER, JOEL 	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	 
+50 	G 	BINNINGTON, JORDAN 	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	1 	  	  	  	  	 
+TEAM TOTALS 	3 	6 	9 	-25 	6 	15 	  	  	  	  	  	  	39 	21 	7 	14 	6 	6 	8 	34 	15 	69

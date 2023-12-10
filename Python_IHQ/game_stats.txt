@@ -1,0 +1,44 @@
+SKATER STATS 
+Nsh  POS  G  A  PN  PIM  +/-  SHOTS  BLOCKED  GA  SHC  HITS 
+3-Lauzon, Jeremy  D  0  1  1  5  0  0  2  0  0  4  
+9-Forsberg, Filip  L  2  1  1  2  0  5  0  1  0  0  
+10-Sissons, Colton  C  0  1  0  0  0  1  0  0  0  0  
+13-Trenin, Yakov  L  1  0  0  0  0  4  1  0  1  1  
+14-Nyquist, Gustav  R  0  1  1  2  0  2  0  0  0  0  
+18-Foudy, Liam  L  0  0  0  0  0  0  2  0  0  1  
+22-Barrie, Tyson  D  0  1  1  2  0  2  2  0  0  0  
+24-Stastney, Spencer  D  1  0  0  0  0  2  1  0  1  0  
+26-Tomasino, Philip  R  0  1  0  0  0  2  1  0  0  0  
+27-McDonagh, Ryan  D  0  1  1  2  0  1  1  1  0  0  
+32-Lankinen, Kevin  G  0  0  0  0  0  0  0  1  0  0  
+36-Smith, Cole  R  0  1  0  0  0  1  1  0  1  1  
+44-Sherwood, Kiefer  L  1  2  0  0  0  4  0  0  0  1  
+45-Carrier, Alexandre  D  0  2  0  0  0  1  0  0  1  1  
+47-McCarron, Michael  C  0  0  0  0  0  1  1  0  1  1  
+59-Josi, Roman  D  0  0  0  0  0  2  2  0  0  0  
+75-Parssinen, Juuso  C  0  0  0  0  0  0  1  0  0  0  
+77-Evangelista, Luke  R  2  1  0  0  0  5  1  0  0  0  
+90-O'Reilly, Ryan  C  1  0  0  0  0  2  1  0  0  0  
+TOTAL   8  13  5  13 0  35  17  3 5  10  
+StL  POS  G  A  PN  PIM  +/-  SHOTS  BLOCKED  GA  SHC  HITS 
+4-Leddy, Nick  D  0  0  0  0  0  0  1  0  0  0  
+6-Scandella, Marco  D  0  1  0  0  0  1  1  1  1  0  
+10-Schenn, Brayden  C  0  0  1  5  0  2  0  1  0  4  
+12-Hayes, Kevin  C  0  0  0  0  0  2  0  0  0  0  
+13-Toropchenko, Alexey  L  0  0  0  0  0  5  0  0  0  0  
+18-Thomas, Robert  C  1  1  0  0  0  3  1  0  1  0  
+20-Saad, Brandon  L  0  1  0  0  0  2  0  0  0  0  
+25-Kyrou, Jordan  R  0  1  0  0  0  3  0  1  0  0  
+30-Hofer, Joel  G  0  0  0  0  0  0  0  0  0  0  
+42-Kapanen, Kasperi  R  0  0  0  0  0  2  0  0  1  1  
+47-Krug, Torey  D  0  1  0  0  0  4  0  0  0  1  
+48-Perunovich, Scott  D  0  0  0  0  0  1  1  0  0  0  
+50-Binnington, Jordan  G  0  0  0  0  0  0  0  1  0  0  
+55-Parayko, Colton  D  0  0  0  0  0  4  0  0  1  1  
+59-Alexandrov, Nikita  C  0  0  1  2  0  1  0  1  0  1  
+63-Neighbours, Jake  R  1  0  0  0  0  3  0  0  0  5  
+70-Sundqvist, Oskar  C  0  0  1  2  0  1  0  0  0  0  
+72-Faulk, Justin  D  0  0  0  0  0  1  3  0  1  0  
+79-Blais, Sammy  L  0  0  1  2  0  1  1  1  0  0  
+89-Buchnevich, Pavel  L  1  1  2  4  0  3  0  0  2  1  
+TOTAL   3  6  6  15 0  39  8  6 7  14  
