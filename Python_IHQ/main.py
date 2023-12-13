@@ -2,7 +2,7 @@ import sys
 import analyst_stats_script
 import source_stats_script
 
-# Auxiliary function
+# Auxiliary functions
 def final_stats(initialStats, finalStats):
 
     for player in initialStats:
@@ -11,7 +11,12 @@ def final_stats(initialStats, finalStats):
 
         finalStats.append(stats)
 
+#def check_errors(sourceStats, analystStats):
+
+
 # Initialization of variables
+g_err, a_err, pn_err, pim_err, sog_err, blk_err, hit_err, give_err = 0
+
 
 # From command line arguments, get the name of the files
 """The Python sys module provides access to any command-line arguments via the sys.argv. This serves two purposes −
@@ -50,4 +55,6 @@ final_stats(analyst_homeTeam, analyst_final_home)
 final_stats(source_awayTeam, source_final_away)
 final_stats(source_homeTeam, source_final_home)
 
-# Step 5: Compare stats and save the differences
+# Step 5: Compare stats, count the differences and save a new file with the number of errors
+check_errors(source_final_away, analyst_final_away)
+check_errors(source_final_home, analyst_final_home)
