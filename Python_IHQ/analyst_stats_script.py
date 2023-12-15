@@ -60,7 +60,7 @@ def read_analyst_stats(analyst_stats_file, analyst_away, analyst_home):
         del playerStats[6]
         del playerStats[1]
 
-        print("playerStats: ", playerStats)
+        #print("playerStats: ", playerStats)
 
         if isAway:
             analyst_away.append(playerStats)

@@ -24,8 +24,6 @@ for i in range(len(source)):
             print('Entered except')
             continue"""
 
-ind = None
-
 def search_player(player, analyst_list):
 
     for index, element in enumerate(analyst_list):
@@ -46,12 +44,5 @@ for source_player in source:
     if ind is None:
         print('player not found')
         continue
-        # This case means that the source_player is not found on the analyst players list
-        # Two things can happen:
-        # 1 - The player had no stats in game, which means it will not appear on the analyst list and it's stats on the source should be all zero = NO ERRORS
-        # 2 - The analyst has errors in its data so this player in game stats should be counted = ERRORS EXIST
 
     print('player found')
-
-###
-

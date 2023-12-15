@@ -1,0 +1,2 @@
+       	G	A	PN	PIM	SOG	BLK	GV	HITS
+ERRORS:	0	0	0	0	0	0	0	0	

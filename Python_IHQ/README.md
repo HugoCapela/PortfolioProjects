@@ -7,4 +7,7 @@
 
 <p>DISCLAIMER: This script is tailored to specific use cases and how the data files are created. It serves as a focused exercise for me to learn, think, write and create a Python script.<p>
 
-<p>STATUS: UNFINISHED</p>
+<p>STATUS: WORKING</p>
+
+<p>STATUS: COMPLETED(?)</p>
+<p>(I might do some code optimization and/or upgrades in the future)</p>
